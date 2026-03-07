@@ -106,9 +106,9 @@ Seaborn
 
 SciPy
 
-📁 Project Files
-Project_5.ipynb — full analysis
+## 📁 Project Files
 
-games.csv — dataset
+- [Project 5.ipynb](Project%205.ipynb) — Full analysis notebook  
+- [games.csv](games.csv) — Dataset used for this project  
+- [README.md](README.md) — Project documentation  
 
-README.md — project summary (this file)
